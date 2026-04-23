@@ -1,0 +1,4 @@
+Retrieval-augmented generation, often called RAG, combines document retrieval with large language model generation.
+In a typical RAG pipeline, documents are cleaned, split into chunks, embedded as vectors, and stored in a vector database.
+When a user asks a question, the system preprocesses the query, retrieves semantically similar chunks, and sends the question plus context to an LLM.
+This design improves factual grounding and helps the model answer based on the supplied documents instead of relying only on its parametric memory.
