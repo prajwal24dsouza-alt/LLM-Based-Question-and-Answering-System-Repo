@@ -13,7 +13,7 @@ A lightweight Retrieval-Augmented Generation (RAG) app using FastAPI + React.
 ## Tech Stack
 
 - Backend: FastAPI, LangChain, FAISS
-- Frontend: React (Vite + Tailwind)
+- Frontend: React 
 - Embeddings: SentenceTransformers
 
 ## Core Flow
