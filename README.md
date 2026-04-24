@@ -22,7 +22,7 @@ A lightweight Retrieval-Augmented Generation (RAG) app using FastAPI + React.
 2. Chunk + embed
 3. Store in FAISS
 4. Query -> retrieve top-k chunks
-5. LLM generates answer with sources
+5. LLM generates answers with sources
 
 ## Features
 
